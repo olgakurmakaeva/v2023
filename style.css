@@ -6,3 +6,10 @@ header{
   background-color: #6C8CD5;
   padding: 40px 0px 40px 25px;
 }
+
+.main-link{
+  background-image: linear-gradient(180deg, #42F73E 0%, #36B0D7 9.9%, #19A8D6 88.54%, #ECF029 100%);
+  padding: 5px 10px 5px 10px;
+  font-size: 36px;
+  text-decoration: none;
+}
