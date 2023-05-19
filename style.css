@@ -32,3 +32,11 @@ ul, ol{
   marging-left: 60px;
   marging-top: 60px;
 }
+
+footer {
+  padding: 65px 0px 80px 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
