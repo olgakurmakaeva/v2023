@@ -8,7 +8,7 @@ header{
 }
 
 .main-link{
-  background-image: linear-gradient(#FFD273 10%, #062270, #FFD273 10%);
+  background-image: linear-gradient(#FFD273 10%, #062270 50%, #FFD273 40%);
   padding: 5px 10px 5px 10px;
   font-size: 36px;
   text-decoration: none;
