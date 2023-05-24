@@ -63,7 +63,7 @@ footer {
 }
 
 .container-links1 {
-  width: 500px;
+  
   margin-left: 90px;
   margin-right: 90px;
 }
@@ -77,6 +77,7 @@ footer img {
   margin: 30px;
 }
 .pauk:hover{
+  
     transform: translateY(100px);
     transition: all 2.5s linear;
 }
