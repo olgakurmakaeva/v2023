@@ -41,10 +41,8 @@ footer {
   margin: 0 auto;
 }
 
-.main-link{
+.main-link::hover{
   background-image: linear-gradient(180 deg #A67200 2%, #FFFFFF 10%, #FFFFFff 90%, #A67200 100%);
-  padding: 5px 10px 5px 10px;
-  font-size: 36px;
-  text-decoration: none;
-  color: #ffffff;
+  transition: 1.5s linear;
+  color: #061F70;
 }
