@@ -47,7 +47,9 @@ footer {
   transition: 2.5s linear;
   color: #061F70;
 }
-
+.container-description{
+  margin-left: 20px;
+}
 
 .description{
   display: flex;
