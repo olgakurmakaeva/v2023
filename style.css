@@ -56,6 +56,17 @@ footer {
   align-items: center;
 }
 
-.container-description{
-  
+.container-links {
+  width: 120px;
+  margin-left: 90px;
+  margin-right: 90px;
+}
+
+footer img {
+  display: block;
+}
+
+.social {
+  display: inline-block;
+  margin: 30px;
 }
