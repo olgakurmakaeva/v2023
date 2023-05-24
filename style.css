@@ -72,5 +72,5 @@ footer img {
 }
 .pauk:hover{
     transform: translateY(100px);
-    transition: 2.5s linear;
+    transition: all 2.5s linear;
 }
