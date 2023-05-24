@@ -70,3 +70,7 @@ footer img {
   display: inline-block;
   margin: 30px;
 }
+.pauk:hover{
+    transform: translateY(100px);
+    transition: 2.5s linear;
+}
