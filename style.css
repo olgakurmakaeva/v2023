@@ -75,3 +75,8 @@ footer img {
     transform: translateY(100px);
     transition: all 2.5s linear;
 }
+
+nav{
+  margin-right:20px;
+  text-align: right;
+}
